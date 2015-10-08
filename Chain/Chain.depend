@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443583288 source:d:\github\gitproject\chaintable\chain\main.c
+	<stdio.h>
+	<stdlib.h>
+	"chain.h"
+
+1444298103 d:\github\gitproject\chaintable\chain\chain.h
+
